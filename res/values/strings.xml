@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">VocaLockscreen</string>
+    <string name="banner_ad_unit_id">ca-app-pub-9597010572153445/6632726819</string>
+
+    <string name="voca_prompt">Chọn một chủ đề</string>
+    <string-array name="chude">
+        <item>Hợp đồng, giao kèo</item>
+        <item>Sự đảm bảo</item>
+        <item>Thị trường, kinh doanh</item>
+        <item>Công việc, tuyển dụng</item>
+        <item>Giải thưởng, thành tích</item>
+        <item>Lương, trợ cấp</item>
+        <item>Máy tính, điện tử</item>
+        <item>Mua sắm, tiêu dùng</item>
+        <item>Ngân hàng, tài chính</item>
+        <item>Âm nhạc</item>
+        <item>Bảo tàng</item>
+        <item>Thuê và cho thuê</item>
+        <item>Dược khoa</item>
+        <item>Media</item>
+        <item>Nha sĩ</item>
+        <item>Sức khỏe</item>
+        <item>Hội, từ thiện</item>
+    </string-array>
+</resources>
